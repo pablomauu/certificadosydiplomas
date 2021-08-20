@@ -1,8 +1,9 @@
 <HTML>
 <HEAD>
-Definiciones de la cabecera
+TITULOOOO
 </HEAD>
+  
 <BODY>
-Instrucciones HTML
+BODYYYYYY
 </BODY>
 </HTML>
