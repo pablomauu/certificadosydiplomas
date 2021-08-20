@@ -1,2 +1,8 @@
-# certificadosydiplomas
-Acá se encontraran todos los certificados y diplomas emitidos para PABLO MAURO.
+<HTML>
+<HEAD>
+Definiciones de la cabecera
+</HEAD>
+<BODY>
+Instrucciones HTML
+</BODY>
+</HTML>
