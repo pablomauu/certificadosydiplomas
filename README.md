@@ -1,45 +1,10 @@
-<!doctype html>
-
-<head>
-
-<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-
-<link rel="stylesheet" href="/menu.css">
-
-<title>Ejemplo de menu 2</title></head>
-
-<body bgcolor="#cddf89">
-
-<font size="6" color="#df7644" face="Tahoma">
-
-Menú en formato texto con font
-
-</font><br><br>
-
+<p><span style="color: #df7644; font-family: Tahoma; font-size: xx-large;"> CERTIFICADOS &amp; DIPLOMAS </span><br /><br /></p>
 <nav class="menu">
-
 <ul>
-
-<li><a href="#">
-
-<font size="6" color="#0f6a9d" face="Comics Sans CM">
-
-Inicio</font></a></li>
-
-<li><a href="#"><font size="6" color="#1f6dfd" face="Comics Sans CM">
-
-Pagina 1</font></a></li>
-
-<li><a href="#"><font size="6" color="#df619d" face="Comics Sans CM">
-
-Pagina 2</font></a></li>
-
-<li><a href="#"><font size="6" color="#49029d" face="Comics Sans CM">
-
-Pagina 3</font></a></li>
-
+<li><a href="#"> <span style="color: #0f6a9d; font-family: Comics Sans CM; font-size: xx-large;"> Inicio</span></a></li>
+<li><a href="#"><span style="color: #1f6dfd; font-family: Comics Sans CM; font-size: xx-large;"> Pagina 1</span></a></li>
+  <img src="https://ibb.co/hHwy5L6"/>
+<li><a href="#"><span style="color: #df619d; font-family: Comics Sans CM; font-size: xx-large;"> Pagina 2</span></a></li>
+<li><a href="#"><span style="color: #49029d; font-family: Comics Sans CM; font-size: xx-large;"> Pagina 3</span></a></li>
 </ul>
-
 </nav>
-
-</body></html>
