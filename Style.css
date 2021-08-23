@@ -1,5 +1,10 @@
 body {
-  heigh:665px;
-  background-image: url("https://pa1.narvii.com/6534/52b61f0dd027d61ee42b1519510c46f8b43910cc_hq.gif");
-  background-size: 45rem;  
+  background-image: url("https://img.freepik.com/foto-gratis/superficie-ladrillo-oscuro-era-irregular_174431-108.jpg?size=626&ext=jpg");
+  background-size: 100rem;
+  background-position: center center;   
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
 }
+
