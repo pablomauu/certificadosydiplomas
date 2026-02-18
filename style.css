@@ -5,29 +5,29 @@ body {
   background-attachment: fixed;
   background-size: cover;
   margin: 0;
-  font-family: Arial, sans-serif;
-  text-align: center;
+  font-family: Tahoma, sans-serif;
+  text-align: center; 
   color: white;
+}
+
+.titulo-principal {
+    color: #c2ffb1;
+    text-align: left;  
+    margin: 40px;
+    font-size: 32px;
 }
 
 .cert-img {
     width: 500px;
-    max-width: 90%; /* responsive */
+    max-width: 90%;
     height: auto;
     border-radius: 8px;
-    transition: transform 0.3s ease;
-}
-
-.cert-img:hover {
-    transform: scale(1.03);
 }
 
 .titulo-cert {
     color: #f3eae8;
-    font-family: Arial, sans-serif; /* más profesional */
     font-size: 24px;
     margin-top: 40px;
-    display: block;
 }
 
 
