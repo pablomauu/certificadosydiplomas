@@ -8,3 +8,16 @@ body {
   
 }
 
+.cert-img {
+    width: 500px;   /* ajustá a gusto */
+    height: auto;
+    border-radius: 8px;
+}
+
+.titulo-cert {
+    color: #f3eae8;
+    font-family: "Comic Sans MS";
+    font-size: xx-large;
+}
+
+
