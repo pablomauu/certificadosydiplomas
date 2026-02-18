@@ -1,34 +1,23 @@
 body {
-  background-image: url("https://img.freepik.com/foto-gratis/superficie-ladrillo-oscuro-era-irregular_174431-108.jpg?size=626&ext=jpg");
-  background-position: center center;   
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  margin: 0;
-  font-family: Tahoma, sans-serif;
-  text-align: center; 
-  color: white;
-}
-
-.titulo-principal {
-    color: #c2ffb1;
-    text-align: left;  
-    margin: 40px;
-    font-size: 32px;
+    background-image: url("https://img.freepik.com/foto-gratis/superficie-ladrillo-oscuro-era-irregular_174431-108.jpg?size=626&ext=jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .cert-img {
-    width: 500px;
-    max-width: 90%;
+    width: 500px;   
     height: auto;
     border-radius: 8px;
 }
 
 .titulo-cert {
     color: #f3eae8;
-    font-size: 24px;
-    margin-top: 40px;
+    font-family: Tahoma, sans-serif;
+    font-size: xx-large;
 }
+
 
 
 
