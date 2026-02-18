@@ -5,23 +5,30 @@ body {
     margin: 0;
 }
 
-main {
+/* Contenedor principal centrado */
+.certificados {
+    max-width: 900px;
+    margin: 0 auto;          /* 👈 centra todo el bloque */
     text-align: center;
 }
 
+/* Título principal a la izquierda */
 .titulo-principal {
     color: #c2ffb1;
-    margin: 40px;
-    text-align: left; /* solo el título a la izquierda */
+    margin: 40px auto;
+    max-width: 900px;
+    text-align: left;
 }
 
+/* Cada certificado */
 .cert-item {
     margin-bottom: 60px;
 }
 
+/* Imágenes */
 .cert-img {
     width: 500px;
-    max-width: 90%;
+    max-width: 100%;
     height: auto;
     border-radius: 8px;
     transition: transform 0.3s ease;
@@ -30,6 +37,8 @@ main {
 .cert-img:hover {
     transform: scale(1.03);
 }
+
+
 
 
 
